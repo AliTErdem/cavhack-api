@@ -13,6 +13,22 @@
     "picture_url": "https://images.unsplash.com/photo-1501871732394-eccc65227089?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c5cf5ec5d264815dc1477e80306c47e0&auto=format&fit=crop&w=1950&q=80",
     "interests": ["traveling", "photography", "swimming"],
     "skills":["swimming", "photography"]
+  },
+  {
+    "firstName": "LoL",
+    "lastName": "boop beep",
+    "bio": "I don't like going to new places",
+    "picture_url": "https://images.unsplash.com/photo-1501871732394-eccc65227089?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c5cf5ec5d264815dc1477e80306c47e0&auto=format&fit=crop&w=1950&q=80",
+    "interests": ["traveling", "swimming"],
+    "skills":["running", "photography"]
+  },
+  {
+    "firstName": "potato",
+    "lastName": "the potato",
+    "bio": "I don't like being eaten",
+    "picture_url": "https://images-na.ssl-images-amazon.com/images/I/811fGdwqf%2BL._SX355_.jpg",
+    "interests": ["sitting", "sleeping"],
+    "skills":["being a potato", "not moving"]
   }
   ]
   
